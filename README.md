@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a very junior software developer who holds a degree in Web and Mobile Development from UWS. 
+I am a junior software developer who holds a degree in Web and Mobile Development from UWS. 
 
 Currently working as an IT support technician for a tech consultancy in London while learning as many skills and gaining as many certifications as possible. 
 

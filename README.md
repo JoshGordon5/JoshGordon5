@@ -6,4 +6,4 @@ Currently working as an IT support technician for a tech consultancy in London w
 
 You will see a wide variety of technologies and languages popping on the repos that I make public as I love to learn and play around with as much as possible.
 
-My main focuses currently are learning to technically write and finish projects to completion - this is a bad habit of mine! Coding can be difficult and dishearting but hey, alwasys remember - This Too Shall Pass!
+My main focuses currently are learning to technically write and finish projects to completion - this is a bad habit of mine! Coding can be difficult and dishearting but hey, always remember - This Too Shall Pass!
